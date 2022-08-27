@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Challenge_CH2</string>
+    <string name="fill_text">Cost of Service</string>
+    <string name="title1">How was the service?</string>
+    <string name="rb_2">Good (18%)</string>
+    <string name="rb_1">Amazing (20%)</string>
+    <string name="rb_3">OK (15%)</string>
+    <string name="tittle_3">Tip Amount</string>
+    <string name="calculate">Calculate</string>
+    <string name="tittle_2">Round tip?</string>
+</resources>
